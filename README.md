@@ -1,0 +1,1 @@
+Supplementary material for "Emerging Trends of Quantum Data Encoding in Quantum AI: A Systematic Review, Taxonomy, Open Research Issues and Challenges" (submitted to IEEE Communications Surveys & Tutorials, manuscript COMST-00891-2026).
